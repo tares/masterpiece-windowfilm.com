@@ -1,0 +1,187 @@
+.style2 {
+	font-size: 12px
+}
+.style5 {
+	font-size: 16px
+}
+.style6 {font-size: 14px}
+.style10 {
+	font-size: 11px;
+	color: #FFFFFF;
+}
+
+body {
+	background-color: #000000;
+	margin: 0px;
+}
+
+a:link, a:visited, a:active {
+    font-family: Calibri;
+    background-color: transparent;
+    color: #000000;
+    text-decoration: none;
+    display: inline;
+}
+
+a:hover {
+	font-family: Calibri;
+	background-color: transparent;
+	color: #000000;
+	text-decoration: line-through;
+	display: inline;
+}
+
+#wrapper {
+	background-image:url(../../source/image/back2.png);
+	background-repeat:repeat;
+	border-top: 1px;
+	width: 100%;
+	padding: 10px 0 10px 0;
+}
+
+#main {
+	margin: 0% auto;
+	font-family: Calibri;
+	color: #000000;
+	width: 800px;
+	height: auto;
+	padding: 3px 0 10px 0;
+	position: relative;
+}
+
+#nav {
+	padding: 10px 0 0 10px;
+	width: 780px;
+	height: 110px;
+	background-color: transparent;
+}
+
+#col {
+	background-color: transparent;
+	margin: 0 0 0 0;
+	width: 260px;
+	height: 110px;
+	position:absolute;
+}
+
+#col1 {
+	margin: 0 0 0 520px;
+	width: 260px;
+	height: 110px;
+	position:absolute;
+	background-color: transparent;
+}
+
+#col2 {
+	margin: 0 0 0 260px;
+	width: 260px;
+	height: 110px;
+	position:absolute;
+	background-color: transparent;
+}
+
+#col3 {
+	margin: 10px 0 10px 10px;
+	background-image:url(image/logocopy.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	width: 780px;
+	height: 60px;
+	background-color: #FFFFFF;
+}
+
+#content {
+	background-image:url(../../source/image/cont-bckgrd.png);
+	margin: 40px 0 0 0;
+	padding: 0;
+	width: 800px;
+	height: 200px;
+	position: relative;
+}
+
+#header {
+	position:relative;
+	width:800px;
+	height :auto;
+	background-color: #000000;
+}
+
+#logo {
+	background-image:url(../../source/image/logo.png);
+	margin: 15px 0 0 0;
+	width: 800px;
+	height: 30px;
+	position: relative;
+}
+
+#cot {
+	padding: 5px 0 0 20px;
+	width: 690px;
+	height: 20px;
+	position: relative;
+}
+#navigasi {
+	height:70px;
+	width:800px;
+	position:relative;
+}
+
+#skyline {
+	background-image:url(image/nav.png);
+    width: 800px;
+	height: 50px;
+    margin: 10px auto;
+	padding: 0;
+    position: relative;
+	}
+	
+#skyline li {
+    margin: 0;
+	padding: 0;
+	list-style: none;
+    position: absolute;
+	top: 0;
+	}
+
+#skyline li, #skyline a {
+    height: 50px;
+	display: block;
+	}
+	
+#about { left: 0; width: 80px;}
+#product { left: 80px; width: 120px;}
+#casest { left: 200px; width: 120px;}
+#news { left: 320px; width: 140px;}
+#faq { left: 460px; width: 80px;}
+#dealer { left: 540px; width: 140px;}
+#contact { left: 680px; width: 120px;}
+
+#about a:hover, #about a:focus {
+    background: transparent url(image/nav.png) 0 -50px no-repeat;}	
+#product a:hover, #product a:focus {
+    background: transparent url(image/nav.png) -80px -50px no-repeat;}
+#casest a:hover, #casest a:focus {
+    background: transparent url(image/nav.png) -200px -50px no-repeat;}
+#news a:hover, #news a:focus {
+    background: transparent url(image/nav.png) -320px -50px no-repeat;}
+#faq a:hover, #faq a:focus {
+    background: transparent url(image/nav.png) -460px -50px no-repeat;}
+#dealer a:hover, #dealer a:focus {
+    background: transparent url(image/nav.png) -540px -50px no-repeat;}
+#contact a:hover, #contact a:focus {
+    background: transparent url(image/nav.png) -680px -50px no-repeat;}
+	
+#about a:active {
+    background: transparent url(image/nav.png) 0 -100px no-repeat;}	
+#product a:active {
+    background: transparent url(image/nav.png) -80px -100px no-repeat;}
+#casest a:active {
+    background: transparent url(image/nav.png) -200px -100px no-repeat;}
+#news a:active {
+    background: transparent url(image/nav.png) -320px -100px no-repeat;}
+#faq a:active {
+    background: transparent url(image/nav.png) -460px -100px no-repeat;}
+#dealer a:active {
+    background: transparent url(image/nav.png) -540px -100px no-repeat;}
+#contact a:active {
+    background: transparent url(image/nav.png) -680px -100px no-repeat;}
