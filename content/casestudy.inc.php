@@ -109,7 +109,7 @@
                 	<div id="aboutUsDesc">
                         <div id="products_wrapper_text">
                             <h1>OUR CASE STUDY ON BUILDINGS</h1>
-                            <p>Besides in the installation of window film on vehicles, MASTERPIECE window film trustworthy on installing home, offices, and commercial buildings. MASTERPIECE able to reject the heat very well,protect the window, provide comfort and a give customers great view. </p>
+                            <p>Besides in the installation of window film on vehicles, MASTERPIECE window film trustworthy on installing home, offices, and commercial buildings. MASTERPIECE able to reject the heat very well, protect the window, provide comfort and a give customers great view. </p>
                             <p>MASTERPIECE window film is a two way vision window film, which is the view from the inside will remain light, but from the outside will look dark.</p>
                         </div>
                         
