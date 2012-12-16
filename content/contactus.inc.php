@@ -26,7 +26,7 @@
     <!--End Map-->
 
 		<div id="mainHead">
-			<img src="source/images/header/mainLogo.png" width="800" height="119" alt="Masterpiece Window Film | The Power of WIndow Film" longdesc="http://masterpiece-windowfilm.com" />
+			<img src="source/images/header/mainLogo.png" width="800" height="107" alt="Masterpiece Window Film | The Power of WIndow Film" longdesc="http://masterpiece-windowfilm.com" />
         </div>
         
         <div id="headerBar">
