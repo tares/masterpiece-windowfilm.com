@@ -21,7 +21,7 @@
                         </p>
                         
                         <p>
-                        	Below are the list of MASTERPIECE window film roducts.
+                        	Below are the list of MASTERPIECE window film products.
                         </p>
                 </div>
             	<div id="products_wrapper">

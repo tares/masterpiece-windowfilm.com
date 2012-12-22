@@ -82,6 +82,12 @@
                             <div id="cs_box" class="cs_box3"><img src="source/images/casestudy/daihatsu.png" width="120" height="120" alt="Daihatsu Logo" /></div>
                             <div id="cs_box" class="cs_box4"><img src="source/images/casestudy/mini.png" width="120" height="120" alt="Mini Logo" /></div>
                         </div>
+                        <div id="cs_box_container">
+							<div id="cs_box" class="cs_box1"><img src="source/images/casestudy/chevrolet.png" width="120" height="120" alt="Chevrolet Logo" /></div>
+                            <div id="cs_box" class="cs_box2"><img src="source/images/casestudy/ford.png" width="120" height="120" alt="Ford Logo" /></div>
+                            <div id="cs_box" class="cs_box3"><img src="source/images/casestudy/mercedes.png" width="120" height="120" alt="Mercedes Benz Logo" /></div>
+                            <div id="cs_box" class="cs_box4"><img src="source/images/casestudy/subaru.png" width="120" height="120" alt="Subaru Logo" /></div>
+                        </div>
                     </div>
                     
                     <div id="aboutUsDesc">
