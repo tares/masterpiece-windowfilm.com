@@ -5,7 +5,7 @@
 	body {
 		width: 100%; max-width: 100%;
 		background-color: #EEE;
-		background-image:url(../image/masterpiece-background4.jpg);
+		background-image:url(../image/masterpiece-background-3.jpg);
 		font: 400 0.75em 'century gothic', 'trebuchet ms', arial, sans-serif;
 		color: #ccc;
 		line-height: 1.4em;
@@ -171,11 +171,11 @@
 		}
 
 	span.credit {
+		font:0.9em 'century gothic', 'trebuchet ms', arial, sans-serif;
 		display: block;
 		text-align: center;
-		color: #555;
+		color: #000000;
 		margin: 15px 0 20px 0;
-		font: 400 0.9em 'trebuchet ms', arial, sans-serif;
 		}
 	
 	/* Added by Me*/
