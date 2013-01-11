@@ -59,7 +59,38 @@ to you within 5 working days.
                 
                 <div id="products_wrapper_text">
                     <div id="dealer_address">
-                   	  
+                    	<table width="100%">
+                        	<tr>
+                            	<td colspan="3"><h3>Your Nearest Location :</h3></td>
+                                <td rowspan="3">&nbsp;</td>
+                            </tr>
+                        	<tr>
+                            	<td width="30px">&nbsp;</td>
+                                <td width="160px">
+                                    <select style="width:100%">
+                                        <option value="volvo">Volvo</option>
+                                        <option value="saab">Saab</option>
+                                        <option value="mercedes">Mercedes</option>
+                                        <option value="audi">Audi</option>
+                                    </select>
+                                </td>
+                                <td width="60px"><input type="submit" /></td>
+                            </tr>
+                            <tr>
+                            	<td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                                <td>&nbsp;</td>
+                            </tr>
+                        </table>
+                        
+                        <div class="dropShadow">
+                            <div id="city_banner"><span class="cityBanner">Jakarta</span></div>
+                            <div id="city_banner_mini"></div>
+                        </div>
+                        
+                        <div id="boxaddress">
+                        	<div id="boxaddress_wrapper"></div>
+                        </div>
                     </div>
                 </div>
 			</div>

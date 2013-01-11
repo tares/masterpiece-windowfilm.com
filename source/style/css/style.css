@@ -1107,6 +1107,52 @@
 		box-shadow: 0 0 5px #666;
 	}
 	
+	#dealer_address{
+		padding: 0px 20px;
+	}
+	
+	#dealer_address h3{
+		padding:0px;
+		margin:0px;
+		font: 400 16px 'century gothic', 'trebuchet ms', arial, sans-serif;
+		color: #000;
+		font-weight:bold;
+		line-height: 120%;
+	}
+	
+	#city_banner{
+		background-color:#0495d8;
+		text-align:center;
+		padding:5px 0px;
+	}
+	#city_banner_mini{
+		background-color:#9ACD32;
+		height:10px;
+	}
+	
+	.cityBanner{
+		padding:0px;
+		margin:0px;
+		font: 400 20px 'century gothic', 'trebuchet ms', arial, sans-serif;
+		color: #FFF;
+		font-weight:bold;
+		line-height: 120%;
+	}
+	
+	#boxaddress{
+		margin: 10px 0px;
+		background-color:#EEE;
+		padding:10px;
+		
+		-moz-box-shadow: 0 0 5px #666;
+		-webkit-box-shadow: 0 0 5px#666;
+		box-shadow: 0 0 5px #666;
+	}
+	
+	#boxaddress_wrapper{
+		height:400px;
+		background-color:#000;
+	}
 	
 	#dealer_address_margin{
 		width:600px;
