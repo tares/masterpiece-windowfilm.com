@@ -119,39 +119,39 @@
                             <p>MASTERPIECE window film is a two way vision window film, which is the view from the inside will remain light, but from the outside will look dark.</p>
                         </div>
                         
-						<div id="products_wrapper_text" class="columns_3">
-                       	<h2>OFFICE BUILDING PT SUMBER HARAPAN</h2>
+						<div id="products_wrapper_text" align="center" style="border-color:#9ACD32;border-style:dotted;">
+                            <p>&nbsp;</p>
+                            <h2>OFFICE BUILDING PT SUMBER HARAPAN</h2>
                             <h3>Jl. Pulau Karam - Padang</h3>
-                            <p>Unfortunately, this page is under construction and not available yet. We are sorry for the inconvenience and appreciate your patience. This page will availabe as soon as possible. Maybe you can visit our other pages. See you soon..</p>
-                            <p>If you can't find what you are looking for here, feel free to email us with your query and we will get back
-    to you within 5 working days.</p>
-    						<p>Pemasangan : <b>Oktober 2010</b></p>
+                            <p>&nbsp;</p>
+    						<p align="left" style="margin-left:50px;">Pemasangan : <b>Oktober 2010</b></p>
 						</div>
                         
-                        <div id="products_wrapper_text" class="columns_3">
+                        <div id="products_wrapper_text">
                        		<p>&nbsp;</p>
 						</div>
                         
-                        <div id="products_wrapper_text" class="columns_3">
-							<p>Unfortunately, this page is under construction and not available yet. We are sorry for the inconvenience and appreciate your patience. This page will availabe as soon as possible. Maybe you can visit our other pages. See you soon.. </p>
-                            <p>If you can't find what you are looking for here, feel free to email us with your query and we will get backto you within 5 working days.</p>
-                            <p>Pemasangan : <b>Oktober 2010</b></p>
+                        <div id="products_wrapper_text" align="center" style="border-color:#9ACD32;border-style:dotted;">
+                        	<p>&nbsp;</p>
+                        	<img src="source/images/casestudy/GoldsGym.png" width="252" height="254" alt="Gold's GYM" longdesc="http://www.goldsgym.co.id" />
                             <h2>GOLD'S GYM</h2>
                             <h3>PX Pavilion</h3>
-                            <center><img src="source/images/casestudy/GoldsGym.png" width="252" height="254" alt="Gold's GYM" longdesc="http://www.goldsgym.co.id" /></center>
+                            <p>&nbsp;</p>
+                            <p align="left" style="margin-left:50px;">Pemasangan : <b>Oktober 2010</b></p>
 						</div>
                       
-						<div id="products_wrapper_text" class="columns_3">
+						<div id="products_wrapper_text">
                        		<p>&nbsp;</p>
 						</div>
                       
-                        <div id="products_wrapper_text" class="columns_3">
-                            <center><img src="source/images/casestudy/toto_logo.png" width="300" height="64" alt="TOTO" longdesc="http://www.toto.co.id"/></center>
-                            <p>Unfortunately, this page is under construction and not available yet. We are sorry for the inconvenience and appreciate your patience. This page will availabe as soon as possible. Maybe you can visit our other pages. See you soon.. </p>
-                            <p>If you can't find what you are looking for here, feel free to email us with your query and we will get backto you within 5 working days.</p>
+                        <div id="products_wrapper_text" align="center" style="border-color:#9ACD32;border-style:dotted;">
+                        	<p>&nbsp;</p>
+                            <img src="source/images/casestudy/toto_logo.png" width="300" height="64" alt="TOTO" longdesc="http://www.toto.co.id"/>
                             <h2>PT. SURYA TOTO INDONESIA</h2>
                             <h3>Jl. M.H. Thamrin KM.7 Serpong, Tangerang 15001 Indonesia</h3>
-                            <p>Pemasangan : <b>November 2010</b></p>
+                            <p>&nbsp;</p>
+                            <p align="left" style="margin-left:50px;">Pemasangan : <b>November 2010</b></p>
+                            
                         </div>
                         
 						<div id="products_wrapper_text" class="columns_3">

@@ -44,14 +44,6 @@
         	<div id="aboutUsDesc">
 				<div id="products_wrapper_text">
 					<h1>WHERE WE LOCATED</h1>
-                    	<p>
-                        	Unfortunately, this page is under construction and not available yet. We are sorry for the inconvenience and appreciate your patience. This page will availabe as soon as possible. Maybe you can visit our other pages. See you soon.. 
-                        </p>
-                        
-                        <p>
-                        	If you can't find what you are looking for here, feel free to email us with your query and we will get back
-to you within 5 working days.
-                        </p>
                 </div>
                 
                 <div id="products_wrapper_text">

@@ -41,14 +41,6 @@
         	<div id="aboutUsDesc">
             	<div id="products_wrapper_text">
 					<h1>GOT SOME QUESTIONS?</h1>
-                    	<p>
-                        	We aim to have 100% customer satisfaction and a smooth operation ensuring that you receive the attention and care you deserve. However if you have any question regarding our service or products please check out our <a href="index.php?location=faq">FaQ section.</a>
-                        </p>
-                        
-                        <p>
-                        	If you can't find what you are looking for feel free to email us with your query and we will get back
-to you within 5 working days.
-                        </p>
                 </div>
             	
                 <div id="products_wrapper_text" style="font-family:'century gothic', 'trebuchet ms', Helvetica, sans-serif, Arial; font-weight:bold;">
@@ -67,7 +59,7 @@ to you within 5 working days.
                     <div id="FaQField">
                     	<div id="headerBarLatin" class="dropShadow">
                             <div id="longBannerGreen"></div>
-                            <p>1. What MASTERPIECE window film really is?</p>
+                            <p>1. What MASTERPIECE window film really is ?</p>
                         </div>
                          <div id="AboutUs_table_content" class="dropShadow">
                             <span>MASTERPIECE 
@@ -79,7 +71,7 @@ to you within 5 working days.
                     <div id="FaQField">
                     	<div id="headerBarLatin" class="dropShadow">
                             <div id="longBannerGreen"></div>
-                            <p>2. Is glass MASTERPIECE window film can provide protection in breaking glass case?</p>
+                            <p>2. Is glass MASTERPIECE window film can provide protection in breaking glass case ?</p>
                         </div>
                          <div id="AboutUs_table_content" class="dropShadow">
                             <span>MASTERPIECE 
@@ -91,11 +83,11 @@ to you within 5 working days.
                     <div id="FaQField">
                     	<div id="headerBarLatin" class="dropShadow">
                             <div id="longBannerGreen"></div>
-                            <p>3. How to clean the MASTERPIECE window film?</p>
+                            <p>3. How to clean the MASTERPIECE window film ?</p>
                         </div>
                          <div id="AboutUs_table_content" class="dropShadow">
                              <span>
-                             	It is recomended that The MASTERPIECE window film has installed at least left for 3 ( three ) days for the perfect glue on the glass. After 3 (three) days, MASTERPIECE window film can be cleaned using plain water, and keep it away from material that menggandung ammonium, because ammonium tends to damage the surface of the glass film.
+                             	It is recomended that The MASTERPIECE window film has installed at least left for 3 (three) days for the perfect glue on the glass. After 3 (three) days, MASTERPIECE window film can be cleaned using plain water, and keep it away from material that menggandung ammonium, because ammonium tends to damage the surface of the glass film.
                              </span>
                         </div>
                     </div>
@@ -115,7 +107,7 @@ to you within 5 working days.
                     <div id="FaQField">
                     	<div id="headerBarLatin" class="dropShadow">
                             <div id="longBannerGreen"></div>
-                            <p>5. How long is the warranty provided by MASTERPIECE window film?</p>
+                            <p>5. How long is the warranty provided by MASTERPIECE window film ?</p>
                         </div>
                          <div id="AboutUs_table_content" class="dropShadow">
                             <span>MASTERPIECE 
@@ -127,7 +119,7 @@ to you within 5 working days.
                     <div id="FaQField">
                     	<div id="headerBarLatin" class="dropShadow">
                             <div id="longBannerGreen"></div>
-                            <p>6. What are the advantages of using MASTERPIECE window film?</p>
+                            <p>6. What are the advantages of using MASTERPIECE window film ?</p>
                         </div>
                          <div id="AboutUs_table_content" class="dropShadow">
                             <span>MASTERPIECE 
@@ -186,7 +178,7 @@ to you within 5 working days.
                         </div>
                          <div id="AboutUs_table_content" class="dropShadow">
                              <span>
-                             	Dianjurkan kaca film MASTERPIECE yang terpasang pada kaca dibiarkan selama 3 ( tiga ) hari agar merekat sempurna pada kaca. Setelah 3 ( tiga ) hari kaca film MASTERPIECE dapat dibersihkan dengan menggunakan air biasa, dan hindarkan dari bahan yang menggandung amonium, karena amonium cenderung merusak lapisan kaca film.
+                             	Dianjurkan kaca film MASTERPIECE yang terpasang pada kaca dibiarkan selama 3 (tiga) hari agar merekat sempurna pada kaca. Setelah 3 ( tiga ) hari kaca film MASTERPIECE dapat dibersihkan dengan menggunakan air biasa, dan hindarkan dari bahan yang menggandung amonium, karena amonium cenderung merusak lapisan kaca film.
                              </span>
                         </div>
                     </div>

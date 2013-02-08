@@ -804,14 +804,14 @@
 		margin: 60px 100px;
 		margin-top:10px;
 		font-size:14px;
-		font-family:'century gothic', 'trebuchet ms', Helvetica, sans-serif, Arial;
+		font-family: Verdana, Geneva, 'calibri', 'century gothic', 'trebuchet ms', Helvetica, sans-serif, Arial;
 		text-align:left;
 		color: #000;
 	}
 	
 	#AboutUs_frame_top_def p{
 		font-size:14px;
-		font-family:'century gothic', 'trebuchet ms', Helvetica, sans-serif, Arial;
+		font-family:Verdana, Geneva, 'century gothic', 'trebuchet ms', Helvetica, sans-serif, Arial;
 		text-align:left;
 		color: #000;
 		margin: 5px;
@@ -825,7 +825,7 @@
 	
 	#AboutUs_frame_top_def td{
 		padding:5px;
-		text-align:center;
+		text-align:l;
 	}
 	
 	.blueFont{
@@ -841,7 +841,7 @@
 	
 	#AboutUs_frame_top_def02 p{
 		font-size:14px;
-		font-family:'century gothic', 'trebuchet ms', Helvetica, sans-serif, Arial;
+		font-family:Verdana, Geneva, 'century gothic', 'trebuchet ms', Helvetica, sans-serif, Arial;
 		text-align:left;
 		color: #000;
 		margin: 5px;
@@ -849,7 +849,7 @@
 	}
 	
 	#AboutUs_frame_top_def02 span{
-		font-size:18px;
+		font-size:16px;
 		font-weight:bold;
 		margin-bottom:5px;
 	}
@@ -1384,6 +1384,14 @@
 		line-height:120%;
 		color:#666;
 		font-style:italic;
+	}
+	
+	#newsFormatting{
+		margin:20px 40px;
+		font-family:Verdana, Geneva, sans-serif;
+		font-size:14px;
+		color:#000;
+		text-align:justify;
 	}
 /*END News and Events*/
 

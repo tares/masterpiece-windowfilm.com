@@ -117,7 +117,7 @@
 											echo "</div>";
 										}
 										
-										echo "<div id=\"".$row['contentID']."\" style=\"width:640px; display: none;\">";
+										echo "<div id=\"".$row['contentID']."\" style=\"width:800px; display: none;\">";
 										echo "	<h2 style=\"font-size:24px; margin:10px 20px; line-height: 120%;\">".$row['additionalInfo']."</h2>";
 										echo "	".$row['content']."";
 										echo "</div>";

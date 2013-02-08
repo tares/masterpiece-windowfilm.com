@@ -24,7 +24,7 @@
     </script>
 
     	<div id="mainHead">
-   	    	<img src="source/images/header/mainLogo.png" width="800" height="107" alt="Masterpiece Window Film | The Power of WIndow Film" longdesc="http://masterpiece-windowfilm.com" />
+   	    	<img src="source/images/header/mainLogo.png" width="800" height="107" alt="MASTERPIECE Window Film | The Power of WIndow Film" longdesc="http://masterpiece-windowfilm.com" />
         </div>
         
         <div id="headerBar">
@@ -42,14 +42,14 @@
         	<div id="aboutUsDesc">
             	<div id="products_wrapper_text">
                     <h1>HAVE KNOW MORE ABOUT US</h1>
-                        <p>
+                        <!--<p>
                             We aim to have 100% customer satisfaction and a smooth operation ensuring that you receive the attention and care you deserve. However if you have any question regarding our service or products please check out our <a href="index.php?location=faq">FaQ section.</a>
                         </p>
                         
                         <p>
                             If you can't find what you are looking for feel free to email us with your query and we will get back
     to you within 5 working days.
-                        </p>
+                        </p>-->
                 </div>
                 
                 <div id="products_wrapper_text" style="font-family:'century gothic', 'trebuchet ms', Helvetica, sans-serif, Arial; font-weight:bold;">
@@ -67,162 +67,142 @@
                     <div id="faq_en">
                     	<div id="AboutUs_frame_top_def">
                             <p>
-                                <img src="source/images/aboutus/mast.png" width="153" height="24" alt="Masterpiece Logo" />
-                                <span> WINDOW FILM</span> 
-                                is a product made from the unification of the two best technology in Japan. Combination of sputtered technology and heat shielding technology,    
+                                MASTERPIECE Window Film is a product made from the unification of the two best technology in Japan. Combination of sputtered technology and heat shielding technology,    
                             </p>
                             <p>
-                                <img src="source/images/aboutus/mast.png" width="153" height="24" alt="Masterpiece Logo" />
-                                <span> WINDOW FILM</span>
-                                produced with high credibility to reject heat and also formed a great shield in preventive UV ray and infrared from the sun heat.
+                                MASTERPIECE Window Film produced with high credibility to reject heat and also formed a great shield in preventive UV ray and infrared from the sun heat.
                             </p>
                             <p> 
-                                <img src="source/images/aboutus/mast.png" width="153" height="24" alt="Masterpiece Logo" />
-                                <span> WINDOW FILM</span>
-                                specially designed to perform luxury and comfortable when driving.
+                                MASTERPIECE Window Film specially designed to perform luxury and comfortable when driving.
                             </p>
                             <p>
-                                <img src="source/images/aboutus/mast.png" width="153" height="24" alt="Masterpiece Logo" />
-                                <span> WINDOW FILM</span> 
-                                has some superior performance :
+                                MASTERPIECE Window Film has some superior performance :
                              </p>
                         </div>
                         
                         <div id="AboutUs_frame_top_def">
                             <table width="100%">
                                 <tr valign="top">
-                                    <td width="49%">
+                                    <td width="100%">
                                         <div id="headerBarLatin" class="dropShadow">
                                             <div id="longBannerGreen"></div>
                                             <div id="AboutUs_table_header">Save Energy </div>
                                         </div>
                                     </td>
-                                    <td width="2%"></td>
-                                    <td width="49%">
-                                        <div id="headerBarLatin" class="dropShadow">
-                                            <div id="longBannerGreen"></div>
-                                            <div id="AboutUs_table_header">Colour Stability</div>
-                                        </div>
-                                    </td>
                                 </tr>
-                            <tr valign="top">
+                            	<tr valign="top">
                                     <td>
                                         <div id="AboutUs_table_content" class="dropShadow">
-                                            <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> 
-                                            window film improves performance and fuel efficiency of the air conditioner by blocking penetrating heat rays.
+                                            MASTERPIECE Window Film improves performance and fuel efficiency of the air conditioner by blocking penetrating heat rays.
                                         </div>
                                     </td>
-                                    <td></td>
-                                    <td>
-                                        <div id="AboutUs_table_content" class="dropShadow">
-                                            <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> 
-                                            window film blocks 98% of harmful ultraviolet rays at minimum which causes discolouration.
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr valign="top">
-                                    <td height="5px"></td>
-                                    <td></td>
-                                    <td height="5px"></td>
                                 </tr>
                                 
+                                <tr><td>&nbsp;</td></tr>
+                                
                                 <tr valign="top">
-                                    <td width="49%">
+                                    <td width="100%">
                                         <div id="headerBarLatin" class="dropShadow">
                                             <div id="longBannerGreen"></div>
                                             <div id="AboutUs_table_header">Clear View</div>
                                         </div>
                                     </td>
-                                    <td width="2%"></td>
-                                    <td width="49%">
-                                        <div id="headerBarLatin" class="dropShadow">
-                                            <div id="longBannerGreen"></div>
-                                            <div id="AboutUs_table_header">Security</div>
-                                        </div>
-                                    </td>
                                 </tr>
-                                <tr valign="top">
+                            	<tr valign="top">
                                     <td>
                                         <div id="AboutUs_table_content" class="dropShadow">
-                                            <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> 
-                                            window film has great visible light transmittance which prevents dazzling effect when comming out of a tunnel and while driving at night.
+                                            MASTERPIECE Window Film has great visible light transmittance which prevents dazzling effect when comming out of a tunnel and while driving at night.
                                         </div>
                                     </td>
-                                    <td></td>
-                                    <td>
-                                        <div id="AboutUs_table_content" class="dropShadow">
-                                            <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> 
-                                            window film prevents glass from shattering in the unfortunate event of an accident.
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr valign="top">
-                                    <td height="5px"></td>
-                                    <td></td>
-                                    <td height="5px"></td>
                                 </tr>
                                 
+                                <tr><td>&nbsp;</td></tr>
+                                
                                 <tr valign="top">
-                                    <td width="49%">
-                                        <div id="headerBarLatin" class="dropShadow">
-                                            <div id="longBannerGreen"></div>
-                                            <div id="AboutUs_table_header">Reduce Glare</div>
-                                        </div>
-                                    </td>
-                                    <td width="2%"></td>
-                                    <td width="49%">
+                                    <td width="100%">
                                         <div id="headerBarLatin" class="dropShadow">
                                             <div id="longBannerGreen"></div>
                                             <div id="AboutUs_table_header">Stainless</div>
                                         </div>
                                     </td>
                                 </tr>
-                                <tr valign="top">
+                            	<tr valign="top">
                                     <td>
                                         <div id="AboutUs_table_content" class="dropShadow">
-                                            <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" />
-                                            window film pnrovides convenience to the drivers by protect them from heat and dazzling caused by infrared rays.
+                                            MASTERPIECE Window Film are corrosion free.
                                         </div>
                                     </td>
-                                    <td></td>
-                                    <td>
-                                        <div id="AboutUs_table_content" class="dropShadow">
-                                            <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" />
-                                            window film are corrosion free.
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr valign="top">
-                                    <td height="5px"></td>
-                                    <td></td>
-                                    <td height="5px"></td>
                                 </tr>
                                 
+                                <tr><td>&nbsp;</td></tr>
                                 <tr valign="top">
-                                    <td width="49%">
+                                    <td width="100%">
+                                        <div id="headerBarLatin" class="dropShadow">
+                                            <div id="longBannerGreen"></div>
+                                            <div id="AboutUs_table_header">Reduce Glare</div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            	<tr valign="top">
+                                    <td>
+                                        <div id="AboutUs_table_content" class="dropShadow">
+                                            MASTERPIECE Window Film provides convenience to the drivers by protect them from heat and dazzling caused by infrared rays.
+                                        </div>
+                                    </td>
+                                </tr>
+                                
+                                <tr><td>&nbsp;</td></tr>
+                                <tr valign="top">
+                                    <td width="100%">
+                                        <div id="headerBarLatin" class="dropShadow">
+                                            <div id="longBannerGreen"></div>
+                                            <div id="AboutUs_table_header">Colour Stability</div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            	<tr valign="top">
+                                    <td>
+                                        <div id="AboutUs_table_content" class="dropShadow">
+                                            MASTERPIECE Window Film blocks 98% of harmful ultraviolet rays at minimum which causes discolouration.
+                                        </div>
+                                    </td>
+                                </tr>
+                                
+                                <tr><td>&nbsp;</td></tr>
+                                <tr valign="top">
+                                    <td width="100%">
+                                        <div id="headerBarLatin" class="dropShadow">
+                                            <div id="longBannerGreen"></div>
+                                            <div id="AboutUs_table_header">Security</div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            	<tr valign="top">
+                                    <td>
+                                        <div id="AboutUs_table_content" class="dropShadow">
+                                            MASTERPIECE Window Film prevents glass from shattering in the unfortunate event of an accident.
+                                        </div>
+                                    </td>
+                                </tr>
+                                
+                                <tr><td>&nbsp;</td></tr>
+                                <tr valign="top">
+                                    <td width="100%">
                                         <div id="headerBarLatin" class="dropShadow">
                                             <div id="longBannerGreen"></div>
                                             <div id="AboutUs_table_header">Free Signal Interference</div>
                                         </div>
                                     </td>
-                                    <td width="2%"></td>
-                                    <td width="49%"></td>
                                 </tr>
-                                <tr valign="top">
+                            	<tr valign="top">
                                     <td>
                                         <div id="AboutUs_table_content" class="dropShadow">
-                                            <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" />
-                                            window film are carefully designed to provide high infrared reduction while allowing visible light transmission. the non - application of metal in this aspect provides a tinting solution that has no interference to electronic transmission device.
+                                            MASTERPIECE Window Film are carefully designed to provide high infrared reduction while allowing visible light transmission. the non - application of metal in this aspect provides a tinting solution that has no interference to electronic transmission device.
                                         </div>
-                                     </td>
-                                    <td></td>
-                                    <td></td>
+                                    </td>
                                 </tr>
-                                <tr valign="top">
-                                    <td height="5px"></td>
-                                    <td></td>
-                                    <td height="5px"></td>
-                                </tr>
+                                
+                                <tr><td>&nbsp;</td></tr>
                             </table>
                         </div>
                         
@@ -282,158 +262,142 @@
                     <div id="faq_id">
                     	<div id="AboutUs_frame_top_def">
                             <p>
-                                <img src="source/images/aboutus/mast.png" width="153" height="24" alt="Masterpiece Logo" />
-                                <span> WINDOW FILM</span> 
-                                adalah produk dengan perpaduan 2 (dua) teknologi terbaik dari Jepang yang merupakan kombinasi dari teknologi sputter (sputtered technology) dan teknologi perisai panas (heat shielding technology), sehingga menghasilkam kaca film dengan kekuatan untuk menolak panas serta membentuk suatu perisai yang hebat dalam menangkal sinar ultraviolet dan infrared dari panas matahari.
+                                Kaca Film MASTERPIECE adalah produk dengan perpaduan 2 (dua) teknologi terbaik dari Jepang yang merupakan kombinasi dari teknologi sputter (sputtered technology) dan teknologi perisai panas (heat shielding technology), sehingga menghasilkam kaca film dengan kekuatan untuk menolak panas serta membentuk suatu perisai yang hebat dalam menangkal sinar ultraviolet dan infrared dari panas matahari.
                             </p>
                             <p>
-                                <img src="source/images/aboutus/mast.png" width="153" height="24" alt="Masterpiece Logo" />
-                                <span> WINDOW FILM</span>
-                                diproduksi dengan kredibilitas tinggi untuk menolak panas dan juga membentuk perisai yang baik dalam pencegahan terhadap sinar UV inframerah dari panas matahari.
+                                Kaca Film MASTERPIECE diproduksi dengan kredibilitas tinggi untuk menolak panas dan juga membentuk perisai yang baik dalam pencegahan terhadap sinar UV inframerah dari panas matahari.
                             </p>
                             <p> 
-                                <img src="source/images/aboutus/mast.png" width="153" height="24" alt="Masterpiece Logo" />
-                                <span> WINDOW FILM</span>
-                                di design khusus untuk menampilkan kemewahan sekaligus kenyamanan.
+                                Kaca Film MASTERPIECE di design khusus untuk menampilkan kemewahan sekaligus kenyamanan.
                             </p>
                             <p>
-                                <img src="source/images/aboutus/mast.png" width="153" height="24" alt="Masterpiece Logo" />
-                                <span> WINDOW FILM</span> 
-                                memiliki beberapa keunggulan :
+                               Kaca Film MASTERPIECE memiliki beberapa keunggulan :
                              </p>
                         </div>
                         
                         <div id="AboutUs_frame_top_def">
                             <table width="100%">
                                 <tr valign="top">
-                                    <td width="49%">
+                                    <td width="100%">
                                         <div id="headerBarLatin" class="dropShadow">
                                             <div id="longBannerGreen"></div>
                                             <div id="AboutUs_table_header">Save Energy </div>
                                         </div>
                                     </td>
-                                    <td width="2%"></td>
-                                    <td width="49%">
-                                        <div id="headerBarLatin" class="dropShadow">
-                                            <div id="longBannerGreen"></div>
-                                            <div id="AboutUs_table_header">Colour Stability</div>
-                                        </div>
-                                    </td>
                                 </tr>
-                            <tr valign="top">
+                            	<tr valign="top">
                                     <td>
                                         <div id="AboutUs_table_content" class="dropShadow">
-                                            Kaca film <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" />dapat membuat anda menghemat bbm atau listrik, penggunaan kaca film <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> membuat suasana di dalam kendaraan ataupun ruangan terasa sejuk, sehingga tidak memerlukan pemakaian ac/pendingin secara berlebihan. 
+                                            Kaca Film MASTERPIECE dapat membuat anda menghemat bbm atau listrik, penggunaan Kaca Film MASTERPIECE membuat suasana di dalam kendaraan ataupun ruangan terasa sejuk, sehingga tidak memerlukan pemakaian ac/pendingin secara berlebihan. 
                                         </div>
                                     </td>
-                                    <td></td>
-                                    <td>
-                                        <div id="AboutUs_table_content" class="dropShadow">
-                                            Kaca film <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" />memiliki lapisan warna yang kuat, sehingga tidak akan  mengalami pemudaran warna dalam jangka waktu yang singkat.
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr valign="top">
-                                    <td height="5px"></td>
-                                    <td></td>
-                                    <td height="5px"></td>
                                 </tr>
                                 
+                                <tr><td>&nbsp;</td></tr>
+                                
                                 <tr valign="top">
-                                    <td width="49%">
+                                    <td width="100%">
                                         <div id="headerBarLatin" class="dropShadow">
                                             <div id="longBannerGreen"></div>
                                             <div id="AboutUs_table_header">Clear View</div>
                                         </div>
                                     </td>
-                                    <td width="2%"></td>
-                                    <td width="49%">
-                                        <div id="headerBarLatin" class="dropShadow">
-                                            <div id="longBannerGreen"></div>
-                                            <div id="AboutUs_table_header">Security</div>
-                                        </div>
-                                    </td>
                                 </tr>
-                                <tr valign="top">
+                            	<tr valign="top">
                                     <td>
                                         <div id="AboutUs_table_content" class="dropShadow">
-                                            Kaca film <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> 
-                                            tidak membuat pandangan dari dalam bias, dan tidak gelap pada saat anda berkendara di waktu malam hari, meskipun pemakaian kaca film  <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> dengan tipe / warna yang gelap.
+                                            Kaca Film MASTERPIECE tidak membuat pandangan dari dalam bias, dan tidak gelap pada saat anda berkendara di waktu malam hari, meskipun pemakaian Kaca Film MASTERPIECE dengan tipe / warna yang gelap.
                                         </div>
                                     </td>
-                                    <td></td>
-                                    <td>
-                                        <div id="AboutUs_table_content" class="dropShadow">
-                                            Kaca film <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> 
-                                            terdiri dari beberapa lapisan material yang di desain khusus untuk keamanan dan kenyamanan anda.
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr valign="top">
-                                    <td height="5px"></td>
-                                    <td></td>
-                                    <td height="5px"></td>
                                 </tr>
                                 
+                                <tr><td>&nbsp;</td></tr>
+                                
                                 <tr valign="top">
-                                    <td width="49%">
-                                        <div id="headerBarLatin" class="dropShadow">
-                                            <div id="longBannerGreen"></div>
-                                            <div id="AboutUs_table_header">Reduce Glare</div>
-                                        </div>
-                                    </td>
-                                    <td width="2%"></td>
-                                    <td width="49%">
+                                    <td width="100%">
                                         <div id="headerBarLatin" class="dropShadow">
                                             <div id="longBannerGreen"></div>
                                             <div id="AboutUs_table_header">Stainless</div>
                                         </div>
                                     </td>
                                 </tr>
-                                <tr valign="top">
+                            	<tr valign="top">
                                     <td>
                                         <div id="AboutUs_table_content" class="dropShadow">
-                                            Kaca film <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> dibuat dengan bahan pilihan terbaik  dan menggunakan perpaduan 2 (dua) proses teknologi tercanggih dari jepang, sehingga mampu melindungi anda dari panas matahari secara maksimal.
+                                            Kaca Film MASTERPIECE terbuat dari bahan berkualitas tinggi yang telah teruji secara material tidak akan menyebabkan karat pada kaca.
                                         </div>
                                     </td>
-                                    <td></td>
-                                    <td>
-                                        <div id="AboutUs_table_content" class="dropShadow">
-                                            Kaca film <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" />
-                                            terbuat dari bahan berkualitas tinggi yang telah teruji secara material tidak akan menyebabkan karat pada kaca.
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr valign="top">
-                                    <td height="5px"></td>
-                                    <td></td>
-                                    <td height="5px"></td>
                                 </tr>
                                 
+                                <tr><td>&nbsp;</td></tr>
                                 <tr valign="top">
-                                    <td width="49%">
+                                    <td width="100%">
+                                        <div id="headerBarLatin" class="dropShadow">
+                                            <div id="longBannerGreen"></div>
+                                            <div id="AboutUs_table_header">Reduce Glare</div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            	<tr valign="top">
+                                    <td>
+                                        <div id="AboutUs_table_content" class="dropShadow">
+                                            Kaca Film MASTERPIECE dibuat dengan bahan pilihan terbaik  dan menggunakan perpaduan 2 (dua) proses teknologi tercanggih dari jepang, sehingga mampu melindungi anda dari panas matahari secara maksimal.
+                                        </div>
+                                    </td>
+                                </tr>
+                                
+                                <tr><td>&nbsp;</td></tr>
+                                <tr valign="top">
+                                    <td width="100%">
+                                        <div id="headerBarLatin" class="dropShadow">
+                                            <div id="longBannerGreen"></div>
+                                            <div id="AboutUs_table_header">Colour Stability</div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            	<tr valign="top">
+                                    <td>
+                                        <div id="AboutUs_table_content" class="dropShadow">
+                                            Kaca Film MASTERPIECE memiliki lapisan warna yang kuat, sehingga tidak akan  mengalami pemudaran warna dalam jangka waktu yang singkat.
+                                        </div>
+                                    </td>
+                                </tr>
+                                
+                                <tr><td>&nbsp;</td></tr>
+                                <tr valign="top">
+                                    <td width="100%">
+                                        <div id="headerBarLatin" class="dropShadow">
+                                            <div id="longBannerGreen"></div>
+                                            <div id="AboutUs_table_header">Security</div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            	<tr valign="top">
+                                    <td>
+                                        <div id="AboutUs_table_content" class="dropShadow">
+                                            Kaca Film MASTERPIECE terdiri dari beberapa lapisan material yang di desain khusus untuk keamanan dan kenyamanan anda.
+                                        </div>
+                                    </td>
+                                </tr>
+                                
+                                <tr><td>&nbsp;</td></tr>
+                                <tr valign="top">
+                                    <td width="100%">
                                         <div id="headerBarLatin" class="dropShadow">
                                             <div id="longBannerGreen"></div>
                                             <div id="AboutUs_table_header">Free Signal Interference</div>
                                         </div>
                                     </td>
-                                    <td width="2%"></td>
-                                    <td width="49%"></td>
                                 </tr>
-                                <tr valign="top">
+                            	<tr valign="top">
                                     <td>
                                         <div id="AboutUs_table_content" class="dropShadow">
-                                            Kaca film <img src="source/images/aboutus/mast_s.png" width="151" height="16" alt="Masterpiece Window Film" style="margin-right:3px;" /> dibuat dengan bahan khusus yang tidak akan menggangu signal gps, handphone dan radio.
+                                            Kaca Film MASTERPIECE dibuat dengan bahan khusus yang tidak akan menggangu signal gps, handphone dan radio.
                                         </div>
-                                     </td>
-                                    <td></td>
-                                    <td></td>
+                                    </td>
                                 </tr>
-                                <tr valign="top">
-                                    <td height="5px"></td>
-                                    <td></td>
-                                    <td height="5px"></td>
-                                </tr>
+                                
+                                <tr><td>&nbsp;</td></tr>
                             </table>
                         </div>
                         
