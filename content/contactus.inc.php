@@ -31,7 +31,7 @@
         
         <div id="headerBar">
             <div id="headerBarLatin">
-				<div class="menuHeader" style="background-image:url(source/images/header/header_contactus.png); background-position:right; background-repeat:no-repeat;">Contact US</div>
+				<div class="menuHeader" style="background-image:url(source/images/header/header_contactus.png); background-position:right; background-repeat:no-repeat;">Contact Us</div>
 			</div>
             <div id="headerBarJapan">
             	<div class="menuHeaderJapan">
