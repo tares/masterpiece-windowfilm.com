@@ -904,7 +904,7 @@
 	#contactUS_mainFrame{
 		position:relative;
 		margin:30px;
-		height:500px;
+		height:920px;
 	}
 	
 	#contactUS_mainFrame_left{
@@ -938,7 +938,9 @@
 	
 	#contactUS_mainFrame_right_Table td{
 		font-family:'century gothic', 'trebuchet ms', Helvetica, sans-serif, Arial;
-		font-size:11px;
+		font-size:16px;
+		line-height:120%;
+		padding:2px;
 	}
 	
 	.inputTextStyle{
@@ -974,6 +976,15 @@
 	#contactUS_mainFrame_left a{
 		color:#F00;
 	}
+	
+	#products_wrapper_text a{
+		color:#F00;
+	}
+	
+	#products_wrapper_text a:hover{
+		color:#0495d8;
+	}
+	
 	#contactUS_mainFrame_left a:hover{
 		color:#0495d8;
 	}

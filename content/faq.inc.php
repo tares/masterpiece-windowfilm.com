@@ -28,11 +28,11 @@
         
         <div id="headerBar">        	
             <div id="headerBarLatin">
-				<div class="menuHeader">FaQ - Frequently Asked Question</div>
+				<div class="menuHeader" style="background-image:url(source/images/header/header_faqs.png); background-position:right; background-repeat:no-repeat;">FaQ - Frequently Asked Question</div>
             </div>
             <div id="headerBarJapan">
             	<div class="menuHeaderJapan">
-                	<div id="japanHeaderFrame" style="height:20px; background-image:url(source/images/header/header_faqs.png);"></div>
+                	<div id="japanHeaderFrame" style="height:10px;"></div>
 				</div>
             </div>
         </div>

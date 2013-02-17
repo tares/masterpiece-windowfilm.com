@@ -52,11 +52,11 @@
         
         <div id="headerBar">
             <div id="headerBarLatin">
-				<div class="menuHeader">News &amp; Events</div>
+				<div class="menuHeader" style="background-image:url(source/images/header/header_news.png); background-position:right; background-repeat:no-repeat;">News &amp; Events</div>
             </div>
             <div id="headerBarJapan">
             	<div class="menuHeaderJapan">
-                	<div id="japanHeaderFrame" style="height:20px; background-image:url(source/images/header/header_aboutus.png);"></div>
+                	<div id="japanHeaderFrame" style="height:10px;"></div>
 				</div>
             </div>
         </div>

@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head>
+    	<link rel="shortcut icon" href="source/style/image/favicon.png" type="image/x-icon" />
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="Masterpiece Window Film, The Power of Window Film. High quality Window Film for your beloved car. Browse here to find suitable high quality window film for your car either your house."/>
         <meta name="keywords" content="window film, windowfilm, kaca film, kacafilm, kaca, film, window, film, master, piece, v-kool, perfection, 3m, masterpiece, mobil, car, murah, indonesia, jazz, innova, alphard, honda, kijang, toyota, mazda, r2, crv, civic, master piece, ice yuki, ice, yuki, black, shinju, black shinju, product, home, us , our, building, best, quality, high, best quality window fim, awesome, great, power, powerfull, security, performance, elegant, elegan, kualitas, terbaik, sunshine, shine, bright, sun, cahaya, matahari"/>

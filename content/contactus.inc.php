@@ -31,11 +31,11 @@
         
         <div id="headerBar">
             <div id="headerBarLatin">
-				<div class="menuHeader">Contact US</div>
+				<div class="menuHeader" style="background-image:url(source/images/header/header_contactus.png); background-position:right; background-repeat:no-repeat;">Contact US</div>
 			</div>
             <div id="headerBarJapan">
             	<div class="menuHeaderJapan">
-                	<div id="japanHeaderFrame" style="height:20px; background-image:url(source/images/header/header_contactus.png);"></div>
+                	<div id="japanHeaderFrame" style="height:10px;"></div>
 				</div>
             </div>
         </div>
@@ -53,7 +53,7 @@
                         	If you can't find what you are looking for feel free to email us with your query and we will get back
 to you within 5 working days.
                         </p>
-                    	<form name="frm_sendEmail" action="sendEmail.php" method="post">
+                    	<form name="frm_sendEmail" action="actions/sendMail.php" method="post">
                     	<table width="100%">
                         	<tr>
                                 <td>
@@ -70,7 +70,7 @@ to you within 5 working days.
                             <tr>
                             	<td>
                                 	Your Message <span class="required">(required*)</span><br />
-                                    <textarea name="tb_email" id="tb_email" class="inputTextAreaStyle" ></textarea>
+                                    <textarea name="tb_message" id="tb_message" class="inputTextAreaStyle" ></textarea>
                                 </td>
                             </tr>
                             <tr>
@@ -80,28 +80,31 @@ to you within 5 working days.
                             </tr>
                         </table>
                         </form>
-                    </div>
-                    <div id="contactUS_mainFrame_right">
-                    	<div id="contactUS_mainFrame_right_Map" class="dropShadow"></div>
+                        <p>&nbsp;</p>
                         <div id="contactUS_mainFrame_right_Table" class="dropShadow">
-                        	<table width="100%">
-                            	<tr valign="top">
-                                	<td width="70px">Telephone</td>
+                        	<table width="100%" style="margin:10px;">
+                            	<tr valign="middle">
+                                	<td width="50px"><img src="source/images/contactus/masterpiece-telephone.png" width="40" height="40" alt="Telephone icon" /></td>
                                     <td>+62 21 37311131</td>
                                 </tr>
                                 
-                                <tr valign="top">
-                                	<td>Email</td>
-                                    <td>info@masterpiece-windowfilm.com</td>
+                                <tr valign="middle">
+                                	<td><img src="source/images/contactus/masterpiece-email.png" width="40" height="40" alt="Email icon" /></td>
+                                    <td><a href="mailto:info@masterpiece-windowfilm.com">info@masterpiece-windowfilm.com</a></td>
                                 </tr>
                                 
-                                <tr valign="top">
-                                	<td>Facebook</td>
-                                    <td><a href="http://www.facebook.com/masterpiece.windowfilm.7?ref=ts">Our Facebook</a></td>
+                                <tr valign="middle">
+                                	<td><img src="source/images/contactus/masterpiece-facebook.png" width="40" height="40" alt="Facebook icon" /></td>
+                                    <td><a href="http://www.facebook.com/masterpiece.windowfilm.7?ref=ts">facebook.com/masterpiece.windowfilm.7</a></td>
                                 </tr>
-                                <tr valign="top">
-                                	<td>Twitter</td>
+                                <tr valign="middle">
+                                	<td><img src="source/images/contactus/masterpiece-twitter.png" width="40" height="40" alt="Twitter icon" /></td>
                                     <td><a href="https://twitter.com/Masterpiecewf/">@Masterpiecewf</a></td>
+                                </tr>
+                                
+                                <tr>
+                                	<td>&nbsp;</td>
+                                    <td>&nbsp;</td>
                                 </tr>
                                 
                                 <tr valign="top">
@@ -114,16 +117,11 @@ to you within 5 working days.
                                 	<td></td>
                                     <td><a href="http://twitter.com/home?status=Currently reading http://www.masterpiece-windowfilm.com/" title="Click to share this post on Twitter">On Twitter</a></td>
                                 </tr>
-                                
-                                <tr>
-                                	<td colspan="2">&nbsp;</td>
-                                </tr>
-                                <tr>
-                                	<td colspan="2"><a href="mailto:info@masterpiece-windowfilm.com">Send an Email</a></td>
-                                </tr>
                             </table>
                         </div>
-                        
+                    </div>
+                    <div id="contactUS_mainFrame_right">
+                    	<div id="contactUS_mainFrame_right_Map" class="dropShadow"></div>
                     </div>
                 </div>
 			</div>

@@ -1,13 +1,49 @@
-    	<div id="mainHead">
+	<!-- Add jQuery library -->
+	<script type="text/javascript" src="garagelb/lib/jquery-1.9.0.min.js"></script>
+
+	<!-- Add mousewheel plugin (this is optional) -->
+	<script type="text/javascript" src="garagelb/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+	<!-- Add fancyBox main JS and CSS files -->
+	<script type="text/javascript" src="garagelb/source/jquery.fancybox.js?v=2.1.4"></script>
+	<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="garagelb/source/jquery.fancybox.css?v=2.1.4" media="screen" />
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			
+			$(".fancybox").fancybox({
+				wrapCSS    : 'fancybox-custom',
+				closeClick : false,
+
+				openEffect : 'none',
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					overlay : {
+						css : {
+							'background' : 'rgba(0,0,0,0.85)'
+						}
+					}
+				}
+			});
+		});
+	</script>
+    	
+        
+        
+        <div id="mainHead">
    	    <img src="source/images/header/mainLogo.png" width="800" height="107" alt="Masterpiece Window Film | The Power of WIndow Film" longdesc="http://masterpiece-windowfilm.com" /></div>
         
         <div id="headerBar">
             <div id="headerBarLatin">
-				<div class="menuHeader">Products &amp; Specifications</div>
+				<div class="menuHeader" style="background-image:url(source/images/header/header_products.png); background-position:right; background-repeat:no-repeat;">Products &amp; Specifications</div>
             </div>
             <div id="headerBarJapan">
             	<div class="menuHeaderJapan">
-                	<div id="japanHeaderFrame" style="height:20px; background-image:url(source/images/header/header_products.png);"></div>
+                	<div id="japanHeaderFrame" style="height:10px;"></div>
 				</div>
             </div>
         </div>
@@ -18,6 +54,10 @@
 					<h1>FIND OUT MORE ABOUT OUR PRODUCTS</h1>
                     	<p>
                         	MASTERPIECE window film made with sputtered technology and combined with the Heat Shieding Technology. Provides 9 kinds of options darkness and capable to reject ultraviolet and heat until 99%, and a variety of color choices to complement your needs in the comfort of driving. MASTERPIECE window film also supported with 7 Years Warranty.
+                        </p>
+                        
+                        <p>
+                        	You also try which window film is suits your car by using our garage simulation. Click here to go to garage simulation <br /><a class="fancybox" href='source/object/garage.swf' >Go to Garage Simulation</a>
                         </p>
                         
                         <p>
