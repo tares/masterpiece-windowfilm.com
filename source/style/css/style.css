@@ -769,11 +769,11 @@
 	display: block;
 	}
 
-#news { left: 0; width: 156px;border-bottom: solid 1px #000000;}
-#case { left: 156px; width: 156px;border-bottom: solid 1px #000000;}
-#aboutus { left: 312px; width:156px;border-bottom: solid 1px #000000;}
-#contact { left: 468px; width:156px;border-bottom: solid 1px #000000;}
-#faq { left: 624px; width:156px;border-right: solid 1px #000000;border-bottom: solid 1px #000000;}
+#news { left: 0; width: 156px;}
+#case { left: 156px; width: 156px;}
+#aboutus { left: 312px; width:156px;}
+#contact { left: 468px; width:156px;}
+#faq { left: 624px; width:156px;}
 
 #news a:hover, #about a:focus {
     background: transparent url(../image/navb.png) 0 -60px no-repeat;}
